@@ -18,7 +18,7 @@ In factor/class data (e.g. true/false, male/female) in classification problem we
 ## One hot Encoding
 
 
-<img src="https://raw.githubusercontent.com/fahimabrar/word_embeddings/main/images/onehot.JPG" 
+<img src="https://raw.githubusercontent.com/fahimabrar/Natural-Language-Processing/main/Word%20Embeddings/xsah.JPG" 
      width="300" 
      height="200" />
 
