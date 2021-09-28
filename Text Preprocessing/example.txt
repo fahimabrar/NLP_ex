@@ -1,1 +1,2 @@
-
+This is the text file we will use for doing different text processsing operation. We may use unnecessary punctuations so that 'ol[]p] we can remove them later with python code.
+This2983 is a [] ver,9869y noi*(^(%)sy sen(*&8p,..tence that contains di398475ffernt pucn^&*6tuations and Numbers. 
